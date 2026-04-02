@@ -3,6 +3,9 @@
 Power BI Sales Dashboard Project
 
 ---
+## 📊 Dashboard Preview
+
+![Dashboard](Sales%20Performance%20Dashboard.png)
 
 ## 📊 E-Commerce Sales Dashboard (Power BI)
 
